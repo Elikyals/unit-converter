@@ -36,7 +36,7 @@ Check out the live demo: [Unit Converter](https://unit-converter-kain.netlify.ap
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/unit-converter.git
+git clone https://github.com/Elikyals/unit-converter.git
 ```
 
 2. Open `index.html` in your browser to run the application locally.
